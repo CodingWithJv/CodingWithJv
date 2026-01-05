@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodingWithJv&theme=date_night" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodingWithJv&theme=date_night" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodingWithJv&theme=date_night" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodingWithJv&theme=date_night" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodingWithJv&theme=date_night&utcOffset=8" />
-</div>
+[![](https://raw.githubusercontent.com/CodingWithJv/CodingWithJv/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/CodingWithJv/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/CodingWithJv/CodingWithJv/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/CodingWithJv/github-profile-summary-cards) [![](https://raw.githubusercontent.com/CodingWithJv/CodingWithJv/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/CodingWithJv/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/CodingWithJv/CodingWithJv/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/CodingWithJv/github-profile-summary-cards) [![](https://raw.githubusercontent.com/CodingWithJv/CodingWithJv/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/CodingWithJv/github-profile-summary-cards)
